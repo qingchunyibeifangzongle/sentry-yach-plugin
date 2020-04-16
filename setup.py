@@ -6,7 +6,7 @@ with open("README.md", "r") as fh:
 
 setup(
     name="sentry-yach-plugin",
-    version='0.0.1',
+    version='0.0.3',
     author='qingchunyibeifangzongle',
     author_email='xiaoyueueyue0612@gmail.com',
     url='https://github.com/qingchunyibeifangzongle/sentry-yach-plugin',
